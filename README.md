@@ -2,7 +2,7 @@
 
 **`Data Science · Análise de Dados · Data Engineering`**
 
-Estudante de Tecnologia em Ciência da Computação na FIAP, com experiência prática em ambientes corporativos e de governo. Apaixonado por transformar dados brutos em decisões estratégicas — de pipelines de dados a dashboards, banco de grafos a automações.
+Estudante de Tecnologia em Data Science na FIAP, com experiência prática em ambientes corporativos e de governo. Apaixonado por transformar dados brutos em decisões estratégicas — de pipelines de dados a dashboards, banco de grafos a automações.
 
 > *"Dados só têm valor quando viram decisão."*
 
@@ -51,4 +51,4 @@ Estudante de Tecnologia em Ciência da Computação na FIAP, com experiência pr
 
 ---
 
-<sub>FIAP · Tecnólogo em Ciência da Computação · 2025–2026</sub>
+<sub>FIAP · Tecnólogo em Data Science · 2025–2026</sub>
