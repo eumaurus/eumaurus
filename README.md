@@ -45,10 +45,11 @@ Estudante de Tecnologia em Ciência da Computação na FIAP, com experiência pr
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eumaurus&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumaurus&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eumaurus&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" height="150" alt="stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumaurus&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="langs" />
+</div>
 
 ---
 
