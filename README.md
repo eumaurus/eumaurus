@@ -45,7 +45,7 @@ Estudante de Tecnologia em Ciência da Computação na FIAP, com experiência pr
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eumaurus&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true)](https://github.com/eumaurus)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eumaurus&theme=github-dark&hide_border=true&locale=pt_BR)](https://github.com/eumaurus)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumaurus&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/eumaurus)
 
